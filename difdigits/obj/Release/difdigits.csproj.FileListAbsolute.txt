@@ -1,0 +1,7 @@
+C:\Users\nia.dryankova\source\repos\difdigits\difdigits\bin\Release\difdigits.exe.config
+C:\Users\nia.dryankova\source\repos\difdigits\difdigits\bin\Release\difdigits.exe
+C:\Users\nia.dryankova\source\repos\difdigits\difdigits\bin\Release\difdigits.pdb
+C:\Users\nia.dryankova\source\repos\difdigits\difdigits\obj\Release\difdigits.csprojAssemblyReference.cache
+C:\Users\nia.dryankova\source\repos\difdigits\difdigits\obj\Release\difdigits.csproj.CoreCompileInputs.cache
+C:\Users\nia.dryankova\source\repos\difdigits\difdigits\obj\Release\difdigits.exe
+C:\Users\nia.dryankova\source\repos\difdigits\difdigits\obj\Release\difdigits.pdb
