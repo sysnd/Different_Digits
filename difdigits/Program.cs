@@ -19,8 +19,8 @@ namespace difdigits
             long n = long.Parse(Console.ReadLine());
             long number = n + 1;
             Calculate(number);
-            Console.WriteLine(watch.ElapsedMilliseconds.ToString());
             watch.Stop();
+            Console.WriteLine(watch.ElapsedMilliseconds.ToString() + "ms");
         }
         static int Calculate(long number)
         {
